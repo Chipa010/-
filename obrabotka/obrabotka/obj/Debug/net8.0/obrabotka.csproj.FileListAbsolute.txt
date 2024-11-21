@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\obrabotka\obrabotka\bin\Debug\net8.0\obrabotka.exe
+C:\Users\Student\source\repos\obrabotka\obrabotka\bin\Debug\net8.0\obrabotka.deps.json
+C:\Users\Student\source\repos\obrabotka\obrabotka\bin\Debug\net8.0\obrabotka.runtimeconfig.json
+C:\Users\Student\source\repos\obrabotka\obrabotka\bin\Debug\net8.0\obrabotka.dll
+C:\Users\Student\source\repos\obrabotka\obrabotka\bin\Debug\net8.0\obrabotka.pdb
+C:\Users\Student\source\repos\obrabotka\obrabotka\obj\Debug\net8.0\obrabotka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\obrabotka\obrabotka\obj\Debug\net8.0\obrabotka.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\obrabotka\obrabotka\obj\Debug\net8.0\obrabotka.AssemblyInfo.cs
+C:\Users\Student\source\repos\obrabotka\obrabotka\obj\Debug\net8.0\obrabotka.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\obrabotka\obrabotka\obj\Debug\net8.0\obrabotka.dll
+C:\Users\Student\source\repos\obrabotka\obrabotka\obj\Debug\net8.0\refint\obrabotka.dll
+C:\Users\Student\source\repos\obrabotka\obrabotka\obj\Debug\net8.0\obrabotka.pdb
+C:\Users\Student\source\repos\obrabotka\obrabotka\obj\Debug\net8.0\obrabotka.genruntimeconfig.cache
+C:\Users\Student\source\repos\obrabotka\obrabotka\obj\Debug\net8.0\ref\obrabotka.dll
